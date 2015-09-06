@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Basic page needs
+        ============================================ -->
+        <title>Best Style Forever | Login & Register</title>
+        <meta charset="utf-8">
+        <meta name="author" content="GOTG">
+        <meta name="description" content="Fashion, clothing, online shopping">
+        <meta name="keywords" content="Fashion, clothing, online shopping">
+
+        <!-- Mobile metas
+        ============================================ -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <!-- Favicon
+        ============================================ -->
+        <link rel="shortcut icon" type="image/x-icon" href="images/fav_icon.ico">
+
+        <!-- Google web fonts
+        ============================================ -->
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+        <!-- Main CSS
+        ============================================ -->
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/fontello.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="js/arcticmodal/jquery.arcticmodal.css">
+        <link rel="stylesheet" href="js/owlcarousel/owl.carousel.css">
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- JS for IE
+        ============================================ -->
+        <script src="js/modernizr.js"></script>
+
+        <!-- Old IE stylesheet
+        ============================================ -->
+        <!--[if lte IE 9]>
+                <link rel="stylesheet" type="text/css" href="css/oldie.css">
+        <![endif]-->
+    </head>
+    <body>
+
+        <!-- - - - - - - - - - - - - - Main Wrapper - - - - - - - - - - - - - - - - -->
+        <div class="wide_layout">
+            <#include "header.shtml">
+
+            <!-- - - - - - - - - - - - - - Page Wrapper - - - - - - - - - - - - - - - - -->
+
+            <div class="secondary_page_wrapper">
+
+                <div class="container">
+
+                    <!-- - - - - - - - - - - - - - Breadcrumbs - - - - - - - - - - - - - - - - -->
+
+                    <ul class="breadcrumbs">
+
+                        <li><a href="index.shtml">Home</a></li>
+                        <li>Login &AMP; Register</li>
+
+                    </ul>
+
+                    <h1 class="page_title">Login &AMP; Register</h1>
+
+                    <!-- - - - - - - - - - - - - - Login & Register - - - - - - - - - - - - - - - - -->
+
+                    <section class="section_offset">
+
+                        <div class="relative">
+
+                            <div class="table_layout">
+
+                                <div class="table_row">
+
+                                    <div class="table_cell">
+
+                                        <section>
+
+                                            <h4>Login</h4>
+
+                                            <p class="subcaption">Already registered? Please log in below:</p>
+
+                                            <form id="login_form" class="type_2">
+
+                                                <ul>
+
+                                                    <li class="row">
+
+                                                        <div class="col-xs-12">
+
+                                                            <label for="user_email" class="required">Email address</label>
+                                                            <input type="email" name="" id="user_email">
+
+                                                        </div>
+
+                                                    </li>
+
+                                                    <li class="row">
+
+                                                        <div class="col-xs-12">
+
+                                                            <label for="user_password" class="required">Password</label>
+                                                            <input type="password" name="" id="user_password">
+
+                                                        </div>
+
+                                                    </li>
+
+                                                    <li class="row">
+
+                                                        <div class="col-xs-12">
+
+                                                            <div class="on_the_sides">
+
+                                                                <div class="right_side">
+
+                                                                    <span class="prompt">Required Fields</span>
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </li>
+
+                                                </ul>
+
+                                            </form>
+
+                                        </section>
+
+                                    </div><!--/ .table_cell -->
+
+                                    <div class="table_cell">
+
+                                        <section>
+
+                                            <h4>Register</h4>
+
+                                            <h5 class="sub bold">Register and save time!</h5>
+
+                                            <p class="subcaption">Register with us for future convenience:</p>
+
+                                            <ul class="list_type_7">
+
+                                                <li>Fast and easy check out</li>
+                                                <li>Easy access to your order history</li>
+                                                <li>Access your wish list at a fingertip</li>
+                                                <li>Enable multiple shipping addresses</li>
+                                                <li>Allow you to write reviews for your favorite items</li>
+
+                                            </ul>
+
+                                        </section>
+
+                                    </div><!--/ .table_cell -->
+
+                                </div><!--/ .table_row -->
+
+                                <div class="table_row">
+
+                                    <div class="table_cell">
+
+                                        <a href="#" class="button_blue middle_btn">Login</a>
+
+                                    </div><!--/ .table_cell -->
+
+                                    <div class="table_cell">
+
+                                        <div class="on_the_sides login_with">
+
+                                            <div class="left_side">
+
+                                                <button type="submit" form="login_form" class="button_blue middle_btn" data-modal-url="modals/register.html">Register</button>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div><!--/ .table_cell -->
+
+                                </div><!--/ .table_row -->
+
+                            </div><!--/ .table_layout -->
+
+                        </div><!--/ .relative -->
+
+                    </section><!--/ .section_offset -->
+
+                    <!-- - - - - - - - - - - - - - End of login - - - - - - - - - - - - - - - - -->
+
+                </div><!--/ .container-->
+
+            </div><!--/ .page_wrapper-->
+
+            <!-- - - - - - - - - - - - - - End Page Wrapper - - - - - - - - - - - - - - - - -->
+
+            <#include "footer.shtml">   
+
+        </div><!--/ [layout]-->
+
+        <#include "social_feeds.shtml">
+
+        <!-- Include Plugins
+        ============================================ -->
+        <script src="js/jquery-2.1.1.min.js"></script>
+        <script src="js/queryloader2.min.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/owlcarousel/owl.carousel.min.js"></script>
+        <script src="twitter/jquery.tweet.min.js"></script>
+        <script src="js/arcticmodal/jquery.arcticmodal.js"></script>
+        <script src="js/jquery.countdown.plugin.min.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/retina.min.js"></script>
+        <script src="js/theme.plugins.js"></script>
+        <script src="js/theme.core.js"></script>
+        <script src="js/script.js"></script>
+
+    </body>
+</html>

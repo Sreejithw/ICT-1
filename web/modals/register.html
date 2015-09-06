@@ -1,0 +1,62 @@
+<!--==================================
+                Register modal window
+======================================-->
+
+<div id="register_mw" class="modal_window">
+
+    <button id="closeReg" class="close arcticmodal-close"></button>
+
+    <header class="on_the_sides">
+
+        <div class="left_side">
+
+            <h2>Register</h2>
+
+        </div>
+
+    </header><!--/ .on_the_sides-->
+
+    <form class="type_2" action="reg" method="post" id="registerForm">
+    <p id="regWarn"></p>
+    <form id="regForm" class="type_2">
+
+        <ul>
+
+            <li>
+                <label for="fName">First Name*</label>
+                <input type="text" name="user_fname" id="fName" required>
+            </li>
+
+            <li>
+                <label for="lName">Last Name</label>
+                <input type="text" name="user_lname" id="lName">
+            </li>
+
+            <li>
+                <label for="email">Email Address*</label>
+                <input type="email" name="user_email" id="email" required>
+            </li>
+
+            <li>
+                <label for="pwd">Password*</label>
+                <input type="password" name="user_password" id="pwd" required>
+            </li>
+
+            <li>
+                <label for="re_pwd">Retype Password*</label>
+                <input type="password" name="re_password" id="rpwd" required>
+            </li>
+
+            <li class="v_centered">
+                <a href="javascript:;" onclick="icp.regis()()" class="button_blue middle_btn">Register</a>
+            </li>
+
+        </ul>
+
+    </form>
+
+</div>
+
+<!--==================================
+                End register modal window
+======================================-->

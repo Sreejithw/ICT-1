@@ -1,0 +1,319 @@
+<!-- - - - - - - - - - - - - - Header - - - - - - - - - - - - - - - - -->
+
+<header id="header" class="type_4">
+
+    <!-- - - - - - - - - - - - - - Bottom part - - - - - - - - - - - - - - - - -->
+
+    <div class="bottom_part">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="main_header_row">
+
+                    <div class="col-sm-6">
+
+                        <!-- - - - - - - - - - - - - - Logo - - - - - - - - - - - - - - - - -->
+
+                        <a href="index.shtml" class="logo">
+
+                            <img src="images/logo.png" alt="Logo Icon">
+
+                        </a>
+
+                        <!-- - - - - - - - - - - - - - End of logo - - - - - - - - - - - - - - - - -->
+
+                    </div><!--/ [col]-->
+
+
+
+                    <div class="col-lg-6 col-sm-5">
+
+                        <div class="clearfix">
+
+                            <!-- - - - - - - - - - - - - - Language change (Add more in the future) - - - - - - - - - - - - - - - - -->
+
+                            <div class="alignright sitettings">
+
+                                <span><img src="images/flag_en.png" alt=""> English</span>
+
+                            </div><!--/ .alignright.site_settings-->
+
+                            <!-- - - - - - - - - - - - - - End of language change - - - - - - - - - - - - - - - - -->
+
+
+
+                        </div><!--/ .clearfix-->
+
+                        <!-- - - - - - - - - - - - - - Navigation - - - - - - - - - - - - - - - - -->
+
+                        <nav class="align_right">
+
+                            <ul class="topbar">
+
+                                <li><a href="index.shtml">Home</a></li>
+                                <li><a href="my_account.shtml">My Account</a></li>
+                                <li><a href="cart.shtml">Shopping Cart</a></li>
+                                <li><a href="checkout.shtml">Checkout</a></li>
+                                <li><a href="contact.shtml">Contact us</a></li>
+
+                            </ul>
+
+                        </nav>
+
+                        <!-- - - - - - - - - - - - - - End navigation - - - - - - - - - - - - - - - - -->
+
+                    </div><!--/ [col]-->
+
+                </div><!--/ .main_header_row-->
+
+            </div><!--/ .row-->
+
+        </div><!--/ .container-->
+
+    </div><!--/ .bottom_part -->
+
+    <!-- - - - - - - - - - - - - - End of bottom part - - - - - - - - - - - - - - - - -->
+
+    <!-- - - - - - - - - - - - - - Main navigation wrapper - - - - - - - - - - - - - - - - -->
+
+    <div id="main_navigation_wrap">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xs-12">
+
+                    <div class="sticky_inner">
+
+                        <!-- - - - - - - - - - - - - - Navigation item - - - - - - - - - - - - - - - - -->
+
+                        <div class="nav_item size_1">
+
+                            <button class="open_menu"></button>
+
+                            <!-- - - - - - - - - - - - - - Main navigation - - - - - - - - - - - - - - - - -->
+
+                            <ul class="theme_menu cats dropdown">
+
+                                <li class="has_megamenu animated_item">
+
+                                    <a href="#">Men</a>
+
+                                    <!-- - - - - - - - - - - - - - Mega menu - - - - - - - - - - - - - - - - -->
+
+                                    <div class="mega_menu type_2 clearfix">
+
+
+                                        <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                        <div class="mega_menu_item">
+
+                                            <ul id="mens" class="list_of_links">
+                                            </ul>
+
+                                        </div><!--/ .mega_menu_item-->
+                                        
+                                        <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+                                        
+                                        <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                                    <div class="mega_menu_item">
+
+                                                            <img src="images/mega_menu_img_1.jpg" alt="">
+
+                                                    </div><!--/ .mega_menu_item-->
+
+                                        <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+
+                                    </div><!--/ .mega_menu-->
+                                    
+                                    <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+                                        
+                                        <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                                    <div class="mega_menu_item">
+
+                                                            <img src="images/mega_menu_img_3.jpg" alt="">
+
+                                                    </div><!--/ .mega_menu_item-->
+
+                                        <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+
+                                    <!-- - - - - - - - - - - - - - End of mega menu - - - - - - - - - - - - - - - - -->
+
+                                </li>
+                                
+                                <li class="has_megamenu animated_item">
+
+                                    <a href="#">Women</a>
+
+                                    <!-- - - - - - - - - - - - - - Mega menu - - - - - - - - - - - - - - - - -->
+
+                                    <div class="mega_menu type_2 clearfix">
+
+
+                                        <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                        <div class="mega_menu_item">
+
+                                            <ul id="womens" class="list_of_links">
+                                            </ul>
+
+                                        </div><!--/ .mega_menu_item-->
+                                        
+                                        <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+                                        
+                                        <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                                    <div class="mega_menu_item">
+
+                                                            <img src="images/mega_menu_img_2.jpg" alt="">
+
+                                                    </div><!--/ .mega_menu_item-->
+
+                                        <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+
+                                    </div><!--/ .mega_menu-->
+                                    
+                                    <!-- - - - - - - - - - - - - - Mega menu item - - - - - - - - - - - - - - - - -->
+
+                                                    <div class="mega_menu_item">
+
+                                                            <img src="images/mega_menu_img_4.jpg" alt="">
+
+                                                    </div><!--/ .mega_menu_item-->
+
+                                    <!-- - - - - - - - - - - - - - End of mega menu item - - - - - - - - - - - - - - - - -->
+
+                                    <!-- - - - - - - - - - - - - - End of mega menu - - - - - - - - - - - - - - - - -->
+
+                                </li>
+
+                            </ul>
+
+                            <!-- - - - - - - - - - - - - - End of main navigation - - - - - - - - - - - - - - - - -->
+
+                        </div><!--/ .nav_item-->
+
+                        <!-- - - - - - - - - - - - - - End of navigation item - - - - - - - - - - - - - - - - -->
+
+                        <!-- - - - - - - - - - - - - - Navigation item - - - - - - - - - - - - - - - - -->
+
+                        <div class="nav_item inner_offset">
+
+                            <!-- - - - - - - - - - - - - - Search form - - - - - - - - - - - - - - - - -->
+
+                            <form class="clearfix search" action="search">
+
+                                <input type="text" name="keyword" tabindex="1" placeholder="Search..." class="alignleft">
+
+                                <!-- - - - - - - - - - - - - - Categories - - - - - - - - - - - - - - - - -->
+
+                                <div class="search_category alignleft">
+
+                                    <div class="open_categories">All items</div>
+
+                                   
+
+                                </div><!--/ .search_category.alignleft-->
+
+                                <!-- - - - - - - - - - - - - - End of categories - - - - - - - - - - - - - - - - -->
+
+                                <button class="button_blue def_icon_btn alignleft"></button>
+
+                            </form><!--/ #search-->
+
+                            <!-- - - - - - - - - - - - - - End search form - - - - - - - - - - - - - - - - -->
+
+                        </div><!--/ .nav_item-->
+
+                        <!-- - - - - - - - - - - - - - End of main navigation - - - - - - - - - - - - - - - - -->
+
+                        <!-- - - - - - - - - - - - - - Navigation item - - - - - - - - - - - - - - - - -->
+
+                        <div class="nav_item size_1">
+
+                            <a href="wishlist.shtml" class="wishlist_button" data-amount="7"></a>
+
+                        </div><!--/ .nav_item-->
+
+                        <!-- - - - - - - - - - - - - - End of main navigation - - - - - - - - - - - - - - - - -->
+
+
+
+                        <!-- - - - - - - - - - - - - - Navigation item - - - - - - - - - - - - - - - - -->
+
+                        <div class="nav_item size_2">
+
+                            <div class="login_box"><div id="account" class="login_box_inner">Welcome visitor <a href="#" data-modal-url="modals/login.html">Login</a> or <a href="#" data-modal-url="modals/register.html">Register</a></div></div>
+
+                        </div><!--/ .nav_item-->
+
+                        <!-- - - - - - - - - - - - - - End of main navigation - - - - - - - - - - - - - - - - -->
+
+                        <!-- - - - - - - - - - - - - - Navigation item - - - - - - - - - - - - - - - - -->
+
+                        <div class="nav_item size_2">
+
+                            <button id="open_shopping_cart" class="open_button" data-amount="2">
+                                <b class="title">My Cart</b>
+                                <b class="total_price"></b>
+                            </button>
+
+                            <!-- - - - - - - - - - - - - - Products list - - - - - - - - - - - - - - - - -->
+
+                            <div class="shopping_cart dropdown">
+                                <div class="animated_item"><p class="title">Recently added item(s)</p></div>
+                                <div id="cart">
+
+                                </div>
+                                <div class="animated_item">
+
+                                    <!-- - - - - - - - - - - - - - Total info - - - - - - - - - - - - - - - - -->
+
+                                    <ul class="total_info">
+
+                                        <li><span class="price">Discount:</span> <span id="discount"></span></li>
+
+                                        <li class="total"><b><span class="price">Total:</span> <span class="total_price"></span></b></li>
+
+                                    </ul>
+
+                                    <!-- - - - - - - - - - - - - - End of total info - - - - - - - - - - - - - - - - -->
+
+                                </div><!--/ .animated_item-->
+
+                                <div class="animated_item">
+
+                                    <a href="cart.shtml" class="btn btn-primary">View Cart</a>
+
+                                    <a href="checkout.shtml" class="btn btn-info">Checkout</a>
+
+                                </div><!--/ .animated_item-->
+
+                            </div><!--/ .shopping_cart.dropdown-->
+
+                            <!-- - - - - - - - - - - - - - End of products list - - - - - - - - - - - - - - - - -->
+
+                        </div><!--/ .nav_item-->
+
+                        <!-- - - - - - - - - - - - - - End of main navigation - - - - - - - - - - - - - - - - -->
+
+                    </div><!--/ .main_navigation-->
+
+                </div><!--/ [col]-->
+
+            </div><!--/ .row-->
+
+        </div><!--/ .container-->
+
+    </div><!--/ .main_navigation_wrap-->
+
+    <!-- - - - - - - - - - - - - - End of main navigation wrapper - - - - - - - - - - - - - - - - -->
+
+</header>
+
+<!-- - - - - - - - - - - - - - End Header - - - - - - - - - - - - - - - - -->

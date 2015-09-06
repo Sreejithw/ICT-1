@@ -1,0 +1,133 @@
+<!-- - - - - - - - - - - - - - Social feeds - - - - - - - - - - - - - - - - -->
+
+<ul class="social_feeds">
+
+    <!-- - - - - - - - - - - - - - Contact us - - - - - - - - - - - - - - - - -->
+
+    <li>
+
+        <button class="icon_btn middle_btn social_contact open_"><i class="icon-mail-8"></i></button>
+
+        <section class="dropdown">
+
+            <div class="animated_item">
+
+                <h3 class="title">Contact Us</h3>
+
+            </div><!--/ .animated_item-->
+
+            <div class="animated_item">
+
+                <p class="form_caption">If you have a question, we have got answers. Just fill out the form below and we will get back to you as soon as we can.</p>
+
+                <form class="contactform" novalidate>
+
+                    <ul>
+
+                        <li class="row">
+
+                            <div class="col-xs-12">
+
+                                <input type="text" title="Name" name="cf_name" placeholder="Your name">
+
+                            </div>
+
+                        </li>
+
+                        <li class="row">
+
+                            <div class="col-xs-12">
+
+                                <input type="email" title="Email" name="cf_email" placeholder="Your email address">
+
+                            </div>
+
+                        </li>
+
+                        <li class="row">
+
+                            <div class="col-xs-12">
+
+                                <textarea placeholder="Message" title="Message" name="cf_message" rows="6"></textarea>
+
+                            </div>
+
+                        </li>
+
+                        <li class="row">
+
+                            <div class="col-xs-12">
+
+                                <button class="button_grey middle_btn">Send</button>
+
+                            </div>
+
+                        </li>
+
+                    </ul>
+
+                </form>
+
+            </div><!--/ .animated_item-->
+
+        </section><!--/ .dropdown-->
+
+    </li>
+
+    <!-- - - - - - - - - - - - - - End contact us - - - - - - - - - - - - - - - - -->
+
+    <!-- - - - - - - - - - - - - - Google map - - - - - - - - - - - - - - - - -->
+
+    <li>
+
+        <button class="icon_btn middle_btn social_gmap open_"><i class="icon-location-4"></i></button>
+
+        <!--Location-->
+
+        <section class="dropdown">
+
+            <div class="animated_item">
+
+                <h3 class="title">Shop Location</h3>
+
+            </div><!--/ .animated_item-->
+
+            <div class="animated_item">
+
+                <p class="c_info_location">571 Sunrise Avenue<br>Singapore.</p>
+
+                <div class="proportional_frame">
+
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6459344452005!2d103.85422059999999!3d1.3890152000000093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1691bca2e5c1%3A0x44498748f567fa41!2s571+Sunrise+Terrace%2C+Singapore!5e0!3m2!1sen!2ssg!4v1437830117564" style="border:0" allowfullscreen></iframe>
+
+                </div>
+
+                <ul class="c_info_list">
+
+                    <li class="c_info_phone">(+65) 90 271 516</li>
+                    <li class="c_info_mail"><a href="mailto:#">sales@beststyleforever.com</a></li>
+                    <li class="c_info_schedule">
+
+                        <ul>
+
+                            <li>Monday - Friday: 8.00 - 20.00</li>
+                            <li>Saturday: 9.00 - 15.00</li>
+                            <li>Sunday: Closed</li>
+
+                        </ul>
+
+                    </li>
+
+                </ul>
+
+            </div><!--/ .animated_item-->
+
+        </section><!--/ .dropdown-->
+
+    </li>
+
+    <!-- - - - - - - - - - - - - - End google map - - - - - - - - - - - - - - - - -->
+
+</ul>
+
+<!-- - - - - - - - - - - - - - End Social feeds - - - - - - - - - - - - - - - - -->

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Basic
+        ============================================ -->
+        <title>Best Style Forever | About Us</title>
+        <meta charset="utf-8">
+        <meta name="author" content="GOTG">
+        <meta name="description" content="Fashion, clothing, online shopping">
+        <meta name="keywords" content="Fashion, clothing, online shopping">
+
+        <!-- Mobile metas
+        ============================================ -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <!-- Favicon
+        ============================================ -->
+        <link rel="shortcut icon" type="image/x-icon" href="images/fav_icon.ico">
+
+        <!-- Google web fonts
+        ============================================ -->
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+        <!-- Main CSS
+        ============================================ -->
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/fontello.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="js/arcticmodal/jquery.arcticmodal.css">
+        <link rel="stylesheet" href="js/owlcarousel/owl.carousel.css">
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- JS for IE
+        ============================================ -->
+        <script src="js/modernizr.js"></script>
+
+        <!-- Old IE stylesheet
+        ============================================ -->
+        <!--[if lte IE 9]>
+                <link rel="stylesheet" type="text/css" href="css/oldie.css">
+        <![endif]-->
+    </head>
+    <body>
+
+        <!-- - - - - - - - - - - - - - Main Wrapper - - - - - - - - - - - - - - - - -->
+        <div class="wide_layout">
+            <#include "header.shtml">
+
+            <!-- - - - - - - - - - - - - - Page Wrapper - - - - - - - - - - - - - - - - -->
+
+            <div class="secondary_page_wrapper">
+
+                <div class="container">
+
+                    <!-- - - - - - - - - - - - - - Breadcrumbs - - - - - - - - - - - - - - - - -->
+
+                    <ul class="breadcrumbs">
+
+                        <li><a href="index.shtml">Home</a></li>
+                        <li>About Us</li>
+
+                    </ul>
+
+                    <div class="row">
+
+                        <aside class="col-md-3 col-sm-4">
+
+                            <!-- - - - - - - - - - - - - - Information - - - - - - - - - - - - - - - - -->
+
+                            <section class="section_offset">
+
+                                <h3>Information</h3>
+
+                                <ul class="theme_menu">
+
+                                    <li class="active current"><a href="#">About Us</a></li>
+                                    <li><a href="contact.shtml">Contact Us</a></li>
+                                    <li><a href="faq.shtml">FAQ</a></li>
+
+                                </ul>
+
+                            </section><!--/ .section_offset -->
+
+                            <!-- - - - - - - - - - - - - - End of information - - - - - - - - - - - - - - - - -->
+
+                        </aside><!--/ [col]-->
+
+                        <main class="col-md-9 col-sm-8">
+
+                            <h1>About Us</h1>
+
+                            <div class="theme_box clearfix">
+
+                                <img src="images/about_img_1.jpg" class="alignleft" width="310" alt="">
+
+                                <p><strong>You are already beautiful. Our mission is to make you feel that way.</strong></p>
+
+                                <p>Fashion is a form of expression. It is both inward and outward, allowing us to creatively identify ourselves in this world of endless beauty. All too often, fashion brands us, forcing us to assume its form, losing our creativity and identity in process. We are neither happy nor contented, caught in the pursuit of a form in which we are not.</p>
+
+                                Best Style Forever is changing it up. We seek to delight you with apparel that you love – flattering silhouettes, stylish designs at affordable prices, allowing you to shine through. We combine the intimacy of instant technology gratification and physical concept store - browsing and shopping at your own convenience.
+
+                                Our personal touch of quality and value exists in design, sourcing and manufacturing. Trust is as important to us as it is to you. Our customer service team and personal stylists are always ready to ensure your shopping experience with us is smooth. Either way, we encourage you to be yourself and be expressive in your unique way.
+
+                                <p>May Best Style Forever Be With You!</p>
+
+                            </div><!--/ .theme_box-->
+
+                        </main><!--/ [col]-->
+
+                    </div><!--/ .row-->
+
+                </div><!--/ .container-->
+
+            </div><!--/ .page_wrapper-->
+
+            <!-- - - - - - - - - - - - - - End Page Wrapper - - - - - - - - - - - - - - - - -->
+
+            <#include "footer.shtml">   
+
+        </div><!--/ [layout]-->
+
+        <#include "social_feeds.shtml">
+
+        <!-- Include Plugins
+        ============================================ -->
+        <script src="js/jquery-2.1.1.min.js"></script>
+        <script src="js/queryloader2.min.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owlcarousel/owl.carousel.min.js"></script>
+        <script src="twitter/jquery.tweet.min.js"></script>
+        <script src="js/arcticmodal/jquery.arcticmodal.js"></script>
+        <script src="js/retina.min.js"></script>
+        <script src="js/theme.plugins.js"></script>
+        <script src="js/theme.core.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>

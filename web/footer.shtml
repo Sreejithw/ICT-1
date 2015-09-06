@@ -1,0 +1,202 @@
+<!-- - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->
+
+<footer id="footer">
+
+    <div class="container">
+
+        <!-- - - - - - - - - - - - - - Infoblocks - - - - - - - - - - - - - - - - -->
+
+        <div class="infoblocks_container">
+
+            <ul class="infoblocks_wrap">
+
+                <li>
+                    <p class="infoblock type_1">
+
+                        <i class="icon-paper-plane"></i>
+                        <span class="caption"><b>Fast &amp; Free Delivery</b></span>
+
+                    </p><!--/ .infoblock-->
+                </li>
+
+                <li>
+                    <p class="infoblock type_1">
+
+                        <i class="icon-lock"></i>
+                        <span class="caption"><b>Safe &amp; Secure Payment</b></span>
+
+                    </p><!--/ .infoblock-->
+                </li>
+
+                <li>
+                    <p class="infoblock type_1">
+
+                        <i class="icon-money"></i>
+                        <span class="caption"><b>100% Money back Guaranted</b></span>
+
+                    </p><!--/ .infoblock-->
+                </li>
+
+            </ul><!--/ .infoblocks_wrap.section_offset.clearfix-->
+
+        </div><!--/ .infoblocks_container -->
+
+        <!-- - - - - - - - - - - - - - End of infoblocks - - - - - - - - - - - - - - - - -->
+
+    </div><!--/ .container -->
+
+    <!-- - - - - - - - - - - - - - Footer section- - - - - - - - - - - - - - - - -->
+
+    <div class="footer_section">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-3 col-sm-6">
+
+                    <!-- - - - - - - - - - - - - - Information widget - - - - - - - - - - - - - - - - -->
+
+                    <section class="widget">
+
+                        <h4>Information</h4>
+
+                        <ul class="list_of_links">
+
+                            <li><a href="about.shtml">About Us</a></li>
+                            <li><a href="contact.shtml">Contact Us</a></li>
+                            <li><a href="faq.shtml">FAQ</a></li>
+
+                        </ul>
+
+                    </section>
+
+                    <!-- - - - - - - - - - - - - - End information widget - - - - - - - - - - - - - - - - -->
+
+                </div><!--/ [col]-->
+
+                <div class="col-md-3 col-sm-6">
+
+                    <!-- - - - - - - - - - - - - - Account's links widget - - - - - - - - - - - - - - - - -->
+
+                    <section class="widget">
+
+                        <h4>My Account</h4>
+
+                        <ul class="list_of_links">
+
+                            <li><a href="my_account.shtml">Account Dashboard</a></li>
+                            <li><a href="my_order.shtml">Order History</a></li>
+                            <li><a href="wishlist.shtml">Wish List</a></li>
+
+                        </ul>
+
+                    </section><!--/ .widget-->
+
+                    <!-- - - - - - - - - - - - - - End of account's links widget - - - - - - - - - - - - - - - - -->
+
+                </div><!--/ [col]-->
+
+                <div class="col-md-3 col-sm-6">
+
+                    <!-- - - - - - - - - - - - - - About us widget- - - - - - - - - - - - - - - - -->
+
+                    <section class="widget">
+
+                        <h4>About Us</h4>
+
+                        <p class="about_us">Our mission is to democratize the fashion industry and empower you with ample opportunities to have your voice heard. That's what keeps us fresh, relevant, and growing by leaps and bounds! We offer the the latest clothes and fashion online as always to you! Enjoy!</p>
+
+                    </section>
+
+                    <!-- - - - - - - - - - - - - - End of about us widget - - - - - - - - - - - - - - - - -->
+
+                </div><!--/ [col]-->
+
+                <div class="col-md-3 col-sm-6">
+
+                    <!-- - - - - - - - - - - - - - Contact Us widget - - - - - - - - - - - - - - - - -->
+
+                    <section class="widget">
+
+                        <h4>Contact Us</h4>
+
+                        <ul class="c_info_list">
+
+                            <li class="c_info_location">571 Sunrise Avenue<br>Singapore.</li>
+                            <li class="c_info_phone">+(65) 90 271 516</li>
+                            <li class="c_info_mail"><a href="mailto:#">sales@beststyleforever.com</a></li>
+                            <li class="c_info_schedule">
+
+                                <ul>
+
+                                    <li>Monday - Friday: 8.00 - 20.00</li>
+                                    <li>Saturday: 9.00 - 15.00</li>
+                                    <li>Sunday: Closed</li>
+
+                                </ul>
+
+                            </li>
+
+                        </ul>
+
+                    </section><!--/ .widget-->
+
+                    <!-- - - - - - - - - - - - - - End of contact us widget - - - - - - - - - - - - - - - - -->
+
+                </div>
+
+            </div><!--/ .row-->
+
+        </div><!--/ .container-->
+
+    </div><!--/ .footer_section_2-->
+
+    <!-- - - - - - - - - - - - - - End footer section- - - - - - - - - - - - - - - - -->
+
+
+    <hr>
+
+    <!-- - - - - - - - - - - - - - Footer section - - - - - - - - - - - - - - - - -->
+
+    <div class="footer_section_3 align_center">
+
+        <div class="container">
+
+            <!-- - - - - - - - - - - - - - Payments - - - - - - - - - - - - - - - - -->
+
+            <ul class="payments">
+
+                <li><img src="images/payment_1.png" alt=""></li>
+                <li><img src="images/payment_2.png" alt=""></li>
+
+            </ul>
+
+            <!-- - - - - - - - - - - - - - End of payments - - - - - - - - - - - - - - - - -->
+
+            <!-- - - - - - - - - - - - - - Footer navigation - - - - - - - - - - - - - - - - -->
+
+            <nav class="footer_nav">
+
+                <ul class="bottombar">
+
+                    <li><a href="category.shtml#Men_T-Shirt">Clothing</a></li>
+                    <li><a href="category.shtml#Women_Jewellery">Accessories</a></li>
+                    <li><a href="category.shtml#Women_Make-Up">Beauty</a></li>
+
+                </ul>
+
+            </nav>
+
+            <!-- - - - - - - - - - - - - - End of footer navigation - - - - - - - - - - - - - - - - -->
+
+            <p class="copyright">&copy; 2015 <a href="index.shtml">Best Style Forever</a>. All Rights Reserved.</p>
+
+        </div><!--/ .container -->
+
+    </div><!--/ .footer_section-->
+
+    <!-- - - - - - - - - - - - - - End footer section - - - - - - - - - - - - - - - - -->
+</footer>
+
+<!-- - - - - - - - - - - - - - End Main Wrapper - - - - - - - - - - - - - - - - -->
